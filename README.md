@@ -26,6 +26,10 @@ This repo includes profiling techniques such as `head()`, `tail()`, and `shape`.
 
 <br>
 
+## Bonus Question Vizualization
+Here is the output of the graph for the Bonus Question:
+![output.png](./img/output.png)
+
 ## Setup/Installation Requirements
 
 * Go to https://github.com/rgiosa10/pandas-cr.git to find the specific repository for this website.
