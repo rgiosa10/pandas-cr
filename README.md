@@ -9,11 +9,12 @@
 ## Technologies Used
 
 * Python
+* Pandas
+* Pyplot
 * Git
 * Markdown
 * JSON
-* pandas
-* numpy
+* NumPy
 * `.gitignore`
 * `requirements.txt`
 
